@@ -47,5 +47,5 @@ function redirect( array ) {
         
     }
     console.log("urlRecurso", urlRecurso );
-    //window.location.assign(urlRecurso);    
+    window.location.assign(urlRecurso);    
 }
