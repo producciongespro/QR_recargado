@@ -1,0 +1,17 @@
+[
+    {
+        "id_recurso" : 1,
+        "nombre_recurso" : "cuenticos",
+        "url_recurso" : "https://www.mep.go.cr/educatico/cuenticos"
+    },
+    {
+        "id_recurso" : 2,
+        "nombre_recurso" : "Minibooks",
+        "url_recurso" : "https://www.mep.go.cr/educatico/english-mini-books-first-cycle"
+    },
+    {
+        "id_recurso" : 3,
+        "nombre_recurso" : "Vida Clips",
+        "url_recurso" : "https://www.mep.go.cr/educatico/vida-clips"
+    }
+]
