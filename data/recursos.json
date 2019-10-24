@@ -1,4 +1,11 @@
-[
+[  
+
+    {
+        "id_recurso" : 0,
+        "nombre_recurso" : "404",
+        "url_recurso" : " http://localhost/QR_recargado/404.html"
+    },
+
     {
         "id_recurso" : 1,
         "nombre_recurso" : "cuenticos",
