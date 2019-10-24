@@ -64,13 +64,13 @@ function enviarEstadistica() {
 console.log("Estadistica usuario", idUsuario);
 console.log("Estadistica recurso", nombreRecurso);
 
-    /*
-    fetch('./server/estadisticas.php?usuario='+idUsuario + '&recurso=' + nombreRecurso )
+    
+    fetch('./server/registrar_visita.php?usuario='+idUsuario + '&recurso=' + nombreRecurso )
         .then(function(response) {
             return response.json();
         })
         .then(function(myJson) {
         console.log(myJson);
         });    
-    */
+    
 }
